@@ -1,0 +1,110 @@
+
+
+Insert a picture of me pointing to myself for the intro
+what is web development
+
+Greetings everyone who is viewing my first ever web page! See that cute girl in the picture. Yeah, thats ME! Let me tell you a little bit about me. Like most people I have a lot of hobbies. I enjoy D. I. Y.  meaning "Do It Yourself" gift making such as scrap booking or making gift baskets for friends and family for special occasions. I enjoy putting business plans for myself because like any entrepreneur, I have so many ideas but they remain hobbies and of course, I enjoy code I assume you enjoy code too or at least curious about it since you found my page! So, as you guessed it, this web page is about my current hobby, web development and how you can start on your own learning path as a newbie web developing as a hobby.  Why coding you ask? Well, I enjoy it because I get a sense of accomplishment when I see what I have created displayed on the web. I enjoy knowing that web users are using something I contributed to the world and hopefully enjoy using it. However, I still consider myself a beginner, but the lessons I took from using free platforms such as Kahn Academy and Free Code Camp, (which I will get into later) really made learning fun and revealed my true potential. So if you are interested in web development I encourage you to read the rest of the article and bookmark my page for upcoming content. 
+
+{ EDITED AND SAVED INSIDE VSC-DO NOT COPY }
+
+
+
+So how do I code?! Which language should I learn first?! Where do I start?!
+
+finish this catchy sentence
+If that sounds like you then...
+
+
+Insert shocked emoji smiley face-->
+Resources define "other people and use them as a cited source"
+Resources difference between a programing and computer language
+
+resources what is HTML(link to computer science.org. in-text ext web pg)
+link markup language to tech terms. in-text ext web pg.
+considering a list with table?. is programing right for me pros and cons.
+link What is CSS? computerhope.com(in-text external web pg.)
+link What is JavaScript computerscience.org(in-text ext web pg. NO CSS.)
+link computerscience.org (in-text ext web pg.)
+
+First things first. What is a computer/programming language? Read this article, it will explain the different programming languages and their uses, {computerscience.org} then meet me back here.  Know that there will be a lot of typing, mistakes, and some of you will take your frustrations out on your keyboard. I can't stop that. But I can point you in the right direction. There is no right or wrong language to learn first. However, I recommended HTML. {insert link computerscience.org} HTML is a {link markup language to techterms.com} markup language that uses tags to define elements within a document. Visit techterms.com for better understanding of the term markup language. {Finish later} FUN FACT: Every webpage contains HTML. I would recommend HTML as a starting computer language. It is very simple and basic, a great starting point for beginners. Starting out, you will quickly figure out whether or not coding is for you. Second on my list is CSS (Cascading Style Sheets) this is a computer mark up language similar to HTML and they usually work hand to hand. So, thus far you have HTML that gives a webpage its content and CSS is responsible for the design of a webpage or site. It is also an easy language especially if you have completed HTML. That leaves us with JavaScript. Java script is a programming language and it is responsible for the actions and movements that are viewed on a webpage or site. JavaScript is a fun and not a super difficult language to learn. However, it is more challenging and complex than HTML or CSS. 
+
+If you can learn these three languages, consider this, a future congratulations!!! You will become a beginner web developer.
+			{do not copy! Already edited}
+
+link KA
+So, here is what you should do after leaving my web page. Sign up for Kahn Academy, it is free website and it will get you started. I recommended K.A. as a starting point because the instructional videos are entertaining, well made, and beginner friendly. There is no limit on how much you can learn and that is how I started out. It helped a lot. I especially like their open source community of students. Open source is a common term in the programming industry which means that anyone can assess your code and view it. The purpose is to teach and to learn by sharing code, essentially. Before I move on, I wanted to mention that every instructional video comes with a printable transcript and chapter summaries. But hey do not take my word for it, sign up and see for yourself. 
+
+
+Link FCC
+What happens after you learn HTML, CSS, and J.S.? Take a week off and do it again! I recommend it, anyway.  Completing assignments are one thing but that alone will not make you a Web Developer, you have to consistently practice. So, sign up for free code camp and take advantage of their challenges, if you get stuck that is an indication that you need additional practice among those topics. They are another free source and anything free is good. I have practice with this site as well and it has its great points but it is a challenge to understand the written instructions when you are not completely familiar with the terminology. However, the challanges are quick and again, I recommend Free Code Camp after Kahn Academy because it is tougher to learn with their site, in my opinion but it will serve as a refresher. Speaking from experience, it has been very effective working on the same topics using a different platform. 
+
+!link encode and solo learn
+Resources what is solo learn S.L.
+link to python web page
+link the word syntax to a definition webpage
+link guide to programming languages computerscience.org 
+
+
+Raise your hand if you knew you could code using mobile apps? I didn't know that starting out! Luckily, I found out. So, there are many mobile apps available via play store on your Android or Apple smart phone that will aid you in learning to code. Big question? Can you really learn to code using a smart phone? Yes, and no, everyone is different, keep that in mind. I would say you can potentially learn a new language. More or less become familiar with that language. In most cases you have to build projects to actually claim that you have learned that particular language. I recommend SoloLearn and encode. SoloLearn surprisingly well developed and well managed. Words cannot describe how amazed I was learning Python {insert link here}, which is a general purpose programming language. The {link to web page re syntax}syntax (set of rules)  very similar to English making it easy to learn and is beginner friendly. This language should be considered after learning HTML, CSS and J.S. that is because the 3 I have previously mentioned are well known and most used for most web pages out there. Any other language is optional and it depends on the metaphorical path you want to travel. You can build web pages, like me or move on to mobile apps. Each language you learn will take you on a different path.{insert link to prog lang guide}
+
+
+youtube videos?
+
+Programming Fun Fact:
+Why did the chicken cross the road? JavaScript made him do it. 
+
+One last free resource I really want to you all to not overlook and take advantage of are free YouTube Videos. Let me share with you a few ways to learn with YouTube. 
+
+
+link a youtube video?
+Copy as you go: On your computer you can watch short tutorials on how to format a web page template. It is like having an online instructor. You can watch a video, pause as needed and learn as you stop the video and try to repeat the same process as needed. It is not a good idea to simply just watch a video. You have to put in the practice. 
+
+
+Wait a minute....Did I forget something? I meant to do that! >.>
+
+
+You all need a list of materials! Silly ME -_-
+
+Items to buy before you can code! 
+
+Disclaimer: Please note that I am not an expert. I am speaking from my own experience and I have written this page as a way for beginners to get started of their own Coding Journey. You have to do your own research to find out what works best for you. Do not take my word for it and do not buy something just because I recommended it. Do your research first!
+				{do not copy already in VSC}
+
+THINKING/THOUGHTS/OUTLINE?
+INTRO
+BASIC LANGUAGES TO START WITH
+KAHN ACADEMY AS A FREE RESOURCE 
+FREE CODE CAMP AS A FREE RESOURCE 
+FREE MOBILE APPS
+FREE YOUTUBE TUTORIALS-->{Introduce YT as a free source and encourage users to educate themselves}
+list of all resources covered.
+
+Table of contents to link to paragraph titles?
+
+
+
+Recommended Laptop: Apple Mac Book Pro
+
+Free Websites 
+Kahn Academy 
+Free Code Camp
+
+Mobile Apps
+SoloLearn 
+Encode  
+
+Free Tutorial 
+YouTube
+
+?
+Free Downloads
+Visual Studio Code Editor
+
+
+
+
+
+
+ 
+
+
