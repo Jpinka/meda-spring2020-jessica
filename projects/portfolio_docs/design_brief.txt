@@ -1,0 +1,146 @@
+Friday, Feb 7, 2020 Friday
+
+I am debating between solid colors and having a visual theme. I think I would like a transparent background with a solid or faded white color box that will hold all of my content. That would be from the top to the bottom of my home page. I think every page would have a similar look.
+
+Overall look and feel:
+I want to work with a combination of blue/purple, greyscale, or colors based on my images. I think I want to play with thick borders around my sections and headers. I want it simple yet for it to pop. I want all on my content to be inside a centered box, that way, the background can be seen from the sides 
+
+Body Text:
+Preference for black or a deep purple/blue that is almost black. (subject to change based on images used) 
+
+Header Text:
+Should be a bright color to alert my user of a new topic. Possibility a purple or blue but I'm leaning towards a dark red maybe my links or buttons would be red surrounded buy all the purple and blue 
+
+Link Text: 
+Actual links within my body paragraphs? Traditional blue. Any buttons needed for navigation will be red I think. To pop out and grab the user's attention.
+
+Background: 
+I would like to use an image of some sort. I'm thinking of a basic design or of the Golden Gate bridge because I think users typically like the images of the bay. Also, this portfolio is for my freelance business in San Francisco and I feel that my customers would relate.
+
+Images: 
+I am thinking images of me in black and white or full color. (subject to change) every other picture in between mine would be images used from pexels of coding related pictures. I also want to try and write a short catch phrase or tagline using my images in the caption area. I would do this rather than a traditional gallery of pictures. There is a chance I would use my images to outline my skills since I do not have many formal projects to link.
+
+About me:
+Brief intro.
+I want to highlight what I can do for my potential customer rather than talk too much about me. I want to give a brief intro about myself then focus on what my slills are and what I can do for my potential customer.
+
+
+
+
+February 8, 2020 Saturday
+
+Identifying Portfolio Design (D) 
+
+HOME PAGE/ABOUT ME
+
+This portfolio is for my future business, "WebHart". My target audience will be small business owners. Therefore, I will have a tagline. Help me, help you, build your vision.
+
+Welcome to WebHart
+Help me, help you, build your vision
+
+This is my HOME, feel free to grab a snack ad join me
+
+
+Body P1: Greetings everyone, my name is Jesica Hart, I'm a San Francisco native and I specialize in creating web pages for small businesses and I'm confident I can build yours. I can build an informational web page [external link]or a full, multipage website[external link],  your choice. Best part is that all of my web sites come fully responsive at no extra charge.
+
+Body P2: Below, please check our gallery. I can build something similar on your site as well. You get to witness me at my best. My goal is to make your website vision a reality. If your vision is unclear, I can help you with that too.  
+
+My experience is in the following computer/programming languages:
+HTML
+CSS
+Java Script 
+Python
+
+please feel free to view my PROJECTS next {link to projects web page}
+
+
+
+PROJECTS: 
+Menu Bar
+
+Hello again! Glad you decided to view my projects. This page has a lot to offer,  please enjoy!
+
+As a reminder my skills are in the following computer/programming languages:
+HTML
+CSS
+JavaScript
+Python
+
+[Link Resume]
+
+Feel free to view my resume below. I also have a HTML only project, called my Hobby. I have projects I have completed through Kahn Academy [external to to my KA profile] 
+
+Have I convinced you yet?
+
+
+If not, check out my Git Hub profile and follow me on LinkedIn.
+
+
+
+Contact ME [Link to my Contact Page]
+
+
+
+CONTACT ME:
+
+Menu Bar under my page title. This page will provide my most basic contact information along with a small greeting and summary
+
+Greeting
+Thank you for viewing my portfolio. Contact me so we can discuss how to build your website. Free estimates are available. 
+
+Jessica
+
+Phone Number: 415-377-9986
+
+Location: San Francisco, California
+
+
+Last Portrait of me or a pic of me at my desk working on my laptop.
+
+
+
+
+Tuesday, February 11, 2020 UPDATES
+
+HOMEPAGE/ABOUT ME: PROJECTS: CONTACTS:
+I want to keep a consistent theme of the SF bay to appeal to other SF residents that my project is targeting. I am using a different SF bay background for each webpage. So, a total of 3 background images that represent SF. 
+
+My body text will be black.
+Borders will all have a transparent red color so that users can read my profile and still see the background image. Also, its helps when reading text against an image. Therefore I do want padding, centering each web page. I suspect I will set my padding to 200px. h1s will be read. h2s Black 
+
+The purpose of this portfolio is to highlight my skills as a freelance web developer. 
+
+MY INSPIRATIONS:
+
+Sean's website
+seanhalpin.io
+
+I like that Sean put himself into his website as a cartoon. Its cute and shows that he has a sense of humor. Im my opinion people like him are easy to work with. He is a very simple designer and he gets straight to the point. He lets me know what can do for me. He goes into his projects and it is just the right amount of detail to keep me engaged I like that his notes page has an area for people to leave comments. Not something typically seen on personal portfolios so he stands out. 
+
+I do not like his message link at the bottom of his pages because the text-color should be darker or thicker. Same thing in his FOOTER on his homepage. with all the space he has we could make his text bigger and thicker at least. He may be too simple for me but he would keep me from going overboard.
+
+His HEADER is very simple and direct. "Im Sean, a web designer" Its cute and cartoonish, like his profile picture.
+
+His MAIM: I also like the subtle joke in his MAIN. there is a cartoon of him standing at his apple laptop and instead of the apple logo, his computer says "fruit". 
+
+
+Brandon Perez
+brandon-perez.pixpa.com
+
+I like and dislike the images so close together but it makes sense for what he is doing. He inspired me to stick with 2 colors/theme.
+
+His HEADER has 3 links to other pages and I do not like how tiny the words are. He does such a great job in his MAIN its a shame that the words are too small to read. 
+
+I have visited his page 3 times and I am just noticing he has words at the bottom of his page in the FOOTER and they are not even links.
+
+His MAIN: a body of pictures that take up a lot of pace, which is great but well thought out but his has white space where a different photo shod be. Its not symmetrical. it feels like a missing tooth.
+
+
+Ian Lunn
+ianlunn.co.uk
+
+The only thing I like about this portfolio is the FOOTER. It has a lot of information and is well organized. At first glance I feel that is is REALLY into football so I had to double check if this was really a developer's profile. It looks as is he designed for for a college sport page. To understand what is going on I had to read a lot of text. SO, he is actually explaining his work. I do not think that should be in his MAIN body on his home page. I feel as if he could post a youtube video or use less words to talk about his process. I know nothing about him on a personal level. 
+
+I feel that this is his most impressive project and he is given us the play book. I have assumed that he talks a lot, very smart and maybe too serious. I looked at his portfolio and i like that it is responsive  but I feel like he is trying to educate us. I am not looking to be educated, I want to know what it is that he can do for me and instead I got a visual of the most detailed resume and cover letter all in one. I just want to know what he can do for me and maybe a small bio to make him feel human. The rest needs to go on a separate page all together for people who care. Actually, it seems his target audience is a large company that know what they are looking for. I do not know, he's not clear.
+
+HEADER is taking up a lot of space. His font-size could be slightly bigger. However it works with his design, not against it. He uses a lot of colors but in a good way.

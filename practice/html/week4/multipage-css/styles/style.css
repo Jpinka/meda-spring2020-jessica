@@ -1,0 +1,198 @@
+body {
+    background-color: red;
+}
+header, main, footer {
+    width: 900px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 36px; 
+}
+/*HEADER STYLES START*/
+header {
+    padding-right: 0;
+    width: 950px;
+}
+header, main {
+    border-bottom: rgba(255, 12, 12, 0.479) 5px solid;
+}
+
+header h1 {
+    font-family: "Zapfino";
+    font-size: 48px;
+    text-align: center;
+    color: red;
+    line-height: 84px;
+    
+}
+
+#logo {
+    float: left;
+}
+
+#title-container {
+    margin-left: 200px;
+}
+
+nav ul {
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: red;
+    padding: 12px;
+    margin-top: 25px;
+    text-transform: uppercase;
+    font-family: "Arial";
+}
+nav ul li:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:link, nav ul li a:visited {
+    color: white;
+}
+
+nav ul li a:visited {
+}
+
+nav ul li a:hover { 
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.322);
+    text-decoration: underline white;
+}
+
+nav ul li a:active {
+}
+/*HEADER STYLES END*/
+/*FOOTER STYLES START*/
+
+footer {
+    color: red;
+    font-family: "Arial";
+    line-height: 48px;
+}
+
+#copyright {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+
+}
+#social-links ul{
+text-align: center;
+margin-bottom: 20px;
+}
+
+#social-links ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+#social-links ul li {
+
+}
+#social-liks ul li:hover {
+    color: white;
+    background-color: red;
+}
+
+#social-links ul li a {
+    text-decoration: none;
+    color: red;
+}
+#social-links ul li a:hover{
+color: rgba(255, 0, 0, 0.514);
+}
+
+/*FOOTER STYLES END*/
+
+/*MAIN DEFAULT STYLES*/
+
+main h1 {
+    font-family: "Zapfino";
+    font-size: 48px; 
+    text-align: center;
+    /*text-transform: uppercase;*/
+    margin: 20px 0;
+    line-height: 80px;
+    margin-top: 30px;
+}
+
+main p {
+    font-family: "Arial";
+    font-size: 24px;
+}
+/*MAIN DEFAULT STYLES END*/
+
+/*HOMEPAGE STYLE START*/
+main#homepage p {
+    margin: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+/*HOMEPAGE STYLE ENDS*/
+
+/*GALLERY STYLE STARTS*/
+#gallery {
+    width: 200px
+}
+
+#gallery div {
+    width: 200px
+}
+
+#gallery div img {
+    width: 200px
+}
+
+/*GALLERY STYLE END*/
+/*CONTACT STYLES START*/
+#contact-flexbox {
+    display: flex;
+}
+    #contact-flexbox div: first-child {
+        flex-grow: 3;
+       /* background-color: gray;*/
+    }
+    #contact-flexbox div: last-child {
+        flex-grow: 1;
+        background-color: silver;
+    }
+
+#contact-form {
+    border: solic red 1px;
+    width: 400px;
+    margin-left: 20px;
+}
+
+#contact-form label {
+    font-size: 24px;
+}
+#contact-form input {
+    border: dashed 10px red;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#contact-form .form-buttons{
+    margin: 20px;
+    color:red;
+    font-size: 18px;
+    width:360px;
+}
+.form-buttons {
+    margin: 20px;
+    color: red;
+    font-size: 18px; 
+}
+
+
+/*CONTACT STYLES END*/
