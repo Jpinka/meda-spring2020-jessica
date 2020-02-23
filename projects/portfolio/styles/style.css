@@ -1,4 +1,133 @@
-body {
-    background-color: crimson;
-    /*background-image: url("sfbridge.jpg");}*/
+/*BORDER AROUND IMPORTANT ELEMENTS*/
+body, h1, h2, p, footer {
+    
+    border: solid;
+    border-color: black;
+    background-color: rgba(0, 0, 0, 0.555);
+    margin-left: 90px;
+    margin-right: 90px;
 }
+/*BACKGROUND STYLES START
+img {
+    width: 100%;
+    height: auto;
+}
+BACKGROUND STYLES END*/
+
+/*HEADER STYLES START*/
+/*MENU NAVIGATION STYLES START*/
+nav ul {
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+    padding: 10px 30px;
+    text-transform: uppercase;
+
+}
+nav ul li a:link{
+    color:red;
+    text-decoration: none;
+
+}
+nav ul li :hover {
+background-color: gainsboro;
+}
+nav ul li a:active {
+color: white;
+}
+nav ul li a:visited {
+    color: rgb(0, 0, 0);
+}
+/*MENU NAVIGATION STYLES END*/
+body {
+    background-color:gray;
+    /*background-image: url("sfbridge.jpg");    ONLY POST ON HOMEPAGE
+    background-size: cover;*/
+    color: rgb(255, 0, 0);
+    
+}
+/*Page Grteetings*/
+h1 {
+font-size: 50px;
+margin-top: 80px;
+font-family: Cursive, Georgia, 'Times New Roman', Times, serif;
+padding: 10px;
+text-align: center;
+
+}
+
+
+
+/*HEADER STYLES END*/
+
+/*MAIN/BODY STYLES START*/
+
+
+p, h2 {
+    margin-left: 90px;
+    margin-right: 90px;
+
+}
+h2{
+    font-size: 35px;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+p {
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 20px 40px 20px 40px;
+    
+    
+    color:rgb(241, 100, 95);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.tab {
+    text-indent: 40px; /*indent of body paragraphs*/
+}
+
+/*FOOTER STYLES START*/
+/*MAIN/BODY STYLES END*/
+footer {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    padding-top: 25px;
+
+}
+/*AFFECTS THE UL LIST AS A WHOLE*/
+#social-links ul {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/*SOCIAL MEDIA LINKS ITSELF (WORDS)*/
+#social-links ul li {
+    display: inline-block; /*made white bar shrink to word*/
+    line-height: 100%;
+    border-radius: 1px;
+    padding: 10px 30px;
+}
+#social-links ul li a {
+    display: block;
+    padding: 4px;
+    font-size: 20px;
+}
+/*WHEN USER HOVERS OVER LINK (WORDS)*/
+#social-links ul li:hover {/*user hovering over link*/
+    background-color: gainsboro;
+}
+#social-links ul li a:link {/*unvisited link*/
+    text-decoration: none;
+    color: crimson;
+}
+#social-links ul li a:active {/*when link is clicked but this is not working yet*/
+    color: red;
+}
+#social-links ul li a:visited {/*visited link*/
+    color: gray;
+}
+
+ 
+/*FOOTER STYLES END*/
