@@ -6,10 +6,16 @@ Overall look and feel:
 I want to work with a combination of blue/purple, greyscale, or colors based on my images. I think I want to play with thick borders around my sections and headers. I want it simple yet for it to pop. I want all on my content to be inside a centered box, that way, the background can be seen from the sides 
 
 Body Text:
-Preference for black or a deep purple/blue that is almost black. (subject to change based on images used) 
+Preference for black or a deep purple/blue that is almost black. (subject to change based on images used)
+
+---Edited: February 22: (changed body color to red. The purple and blue were too conflicting with the background image and overall theme)---
+ 
 
 Header Text:
-Should be a bright color to alert my user of a new topic. Possibility a purple or blue but I'm leaning towards a dark red maybe my links or buttons would be red surrounded buy all the purple and blue 
+Should be a bright color to alert my user of a new topic. Possibility a purple or blue but I'm leaning towards a dark red maybe my links or buttons would be red surrounded buy all the purple and blue.
+
+---Edited: February 22: (I chose red as the header text to keep overall theme simple)---
+
 
 Link Text: 
 Actual links within my body paragraphs? Traditional blue. Any buttons needed for navigation will be red I think. To pop out and grab the user's attention.
@@ -37,8 +43,9 @@ This portfolio is for my future business, "WebHart". My target audience will be 
 
 Welcome to WebHart
 Help me, help you, build your vision
+---Edited: February 22: (changed tagline: Where your vision becomes my reality.)---
 
-This is my HOME, feel free to grab a snack ad join me
+This is my HOME, feel free to grab a snack and join me
 
 
 Body P1: Greetings everyone, my name is Jesica Hart, I'm a San Francisco native and I specialize in creating web pages for small businesses and I'm confident I can build yours. I can build an informational web page [external link]or a full, multipage website[external link],  your choice. Best part is that all of my web sites come fully responsive at no extra charge.
@@ -49,9 +56,11 @@ My experience is in the following computer/programming languages:
 HTML
 CSS
 Java Script 
-Python
 
-please feel free to view my PROJECTS next {link to projects web page}
+
+please feel free to view my PROJECTS
+
+[COPIED FOR HOMEPAGE DO NOT COPY AGAIN]
 
 
 

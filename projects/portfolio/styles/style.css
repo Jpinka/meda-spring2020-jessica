@@ -7,12 +7,14 @@ body, h1, h2, p, footer {
     margin-left: 90px;
     margin-right: 90px;
 }
-/*BACKGROUND STYLES START
+
+
+/*BACKGROUND STYLES START*/
 img {
     width: 100%;
     height: auto;
 }
-BACKGROUND STYLES END*/
+/*BACKGROUND STYLES END*/
 
 /*HEADER STYLES START*/
 /*MENU NAVIGATION STYLES START*/
@@ -42,12 +44,14 @@ nav ul li a:visited {
 /*MENU NAVIGATION STYLES END*/
 body {
     background-color:gray;
-    /*background-image: url("sfbridge.jpg");    ONLY POST ON HOMEPAGE
-    background-size: cover;*/
+    background-image: url("sfbridge.jpg"); 
+    background-size: cover;
     color: rgb(255, 0, 0);
     
 }
 /*Page Grteetings*/
+
+
 h1 {
 font-size: 50px;
 margin-top: 80px;
@@ -56,12 +60,19 @@ padding: 10px;
 text-align: center;
 
 }
+#tagline{
+    
+    border-width: thin;
+    padding-top: 20px;
+    border-radius: 90mm;
+    border-top-style: ridge;
 
+}
 
 
 /*HEADER STYLES END*/
 
-/*MAIN/BODY STYLES START*/
+/*BODY STYLES START*/
 
 
 p, h2 {
@@ -81,16 +92,16 @@ p {
     padding: 20px 40px 20px 40px;
     
     
-    color:rgb(241, 100, 95);
+    color:rgb(233, 65, 59);
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 .tab {
-    text-indent: 40px; /*indent of body paragraphs*/
+    text-indent: 1.5em; /*indent of body paragraphs*/
 }
 
 /*FOOTER STYLES START*/
-/*MAIN/BODY STYLES END*/
+/*BODY STYLES END*/
 footer {
     margin-top: 90px;
     margin-bottom: 90px;
@@ -128,6 +139,15 @@ footer {
 #social-links ul li a:visited {/*visited link*/
     color: gray;
 }
-
- 
 /*FOOTER STYLES END*/
+
+/*HOMEPAGE STYLES START*/
+main span {
+    padding-left: 1.5em;
+    text-indent: 40px;
+}
+/*HOMEPAGE STYLES END*/
+
+/*PROJECT STYLES START*/
+
+/*PROJECT STYLES END*/
