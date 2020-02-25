@@ -10,10 +10,7 @@ body, h1, h2, p, footer {
 
 
 /*BACKGROUND STYLES START*/
-img {
-    width: 100%;
-    height: auto;
-}
+
 /*BACKGROUND STYLES END*/
 
 /*HEADER STYLES START*/
@@ -43,33 +40,37 @@ nav ul li a:visited {
 }
 /*MENU NAVIGATION STYLES END*/
 body {
-    background-color:gray;
-    background-image: url("sfbridge.jpg"); 
-    background-size: cover;
     color: rgb(255, 0, 0);
+    background-color:gray;
+   /* background-image: url("sfocean.jpg");  /*background image to stand out
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 100%; */
     
+   
 }
 /*Page Grteetings*/
 
-
 h1 {
-font-size: 50px;
-margin-top: 80px;
-font-family: Cursive, Georgia, 'Times New Roman', Times, serif;
-padding: 10px;
-text-align: center;
-
-}
-#tagline{
+    font-size: 50px;
+    margin-top: 80px;
+    font-family: Cursive, Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
     
-    border-width: thin;
-    padding-top: 20px;
+}
+#tagline {
+    font-size: 43px;
+    font-family: Cursive, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-width: thin;  
     border-radius: 90mm;
     border-top-style: ridge;
 
 }
 
-
+    
 /*HEADER STYLES END*/
 
 /*BODY STYLES START*/
@@ -109,45 +110,68 @@ footer {
 
 }
 /*AFFECTS THE UL LIST AS A WHOLE*/
-#social-links ul {
+footer ul {
     text-align: center;
     margin-bottom: 20px;
 }
 /*SOCIAL MEDIA LINKS ITSELF (WORDS)*/
-#social-links ul li {
+footer ul li {
     display: inline-block; /*made white bar shrink to word*/
     line-height: 100%;
     border-radius: 1px;
     padding: 10px 30px;
 }
-#social-links ul li a {
+footer ul li a {
     display: block;
     padding: 4px;
     font-size: 20px;
 }
 /*WHEN USER HOVERS OVER LINK (WORDS)*/
-#social-links ul li:hover {/*user hovering over link*/
+footer ul li:hover {/*user hovering over link*/
     background-color: gainsboro;
 }
-#social-links ul li a:link {/*unvisited link*/
+footer ul li a:link {/*unvisited link*/
     text-decoration: none;
     color: crimson;
 }
-#social-links ul li a:active {/*when link is clicked but this is not working yet*/
+footer ul li a:active {/*when link is clicked but this is not working yet*/
     color: red;
 }
-#social-links ul li a:visited {/*visited link*/
+footer ul li a:visited {/*visited link*/
     color: gray;
 }
 /*FOOTER STYLES END*/
 
 /*HOMEPAGE STYLES START*/
-main span {
+/*
+main span indentation of body paragraphs
     padding-left: 1.5em;
     text-indent: 40px;
-}
+}*/
+/*gallery of SF*/
+
+
+    
+#jvh {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+} 
+
 /*HOMEPAGE STYLES END*/
 
 /*PROJECT STYLES START*/
 
+#projects{
+color:white;
+}
+
+#sfgallery {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    flex-shrink: 30%;  
+    padding-top: 50px;
+    flex-wrap: wrap;
+}
 /*PROJECT STYLES END*/
