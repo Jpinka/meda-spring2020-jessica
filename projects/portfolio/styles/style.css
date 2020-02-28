@@ -165,8 +165,8 @@ main span indentation of body paragraphs
 
 /*PROJECT STYLES START*/
 
-#projects{
-color:white;
+#projects {
+    color:white;
 }
 
 #sfgallery {
@@ -178,7 +178,6 @@ color:white;
     padding-right: 40px;
     padding-top: 50px;
     padding-bottom: 50px;
-   
     flex-wrap: wrap;
     border-style: double;
     border-color: rgba(255, 0, 0, 0.719);
@@ -186,4 +185,16 @@ color:white;
     border-width: 20px;
     margin: 50px 200px 50px 200px;
 }
+
+#KA :link{
+    color: rgba(255, 0, 0, 0.74);
+}
+#KA :hover{
+    background-color: rgba(223, 149, 149, 0.788);
+}
+
+#KA :active{
+    color: rgb(255, 0, 0);
+}
+
 /*PROJECT STYLES END*/
