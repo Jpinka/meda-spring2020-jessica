@@ -29,6 +29,10 @@ console.log(rounded);
 //round up
 var roundUp = Math.ceil(45.1);
 
+// var just means variable
+// let is the new "var" (know the difference )
+// const a variable that does not change in. and you only use CAPS
+
 //Round down
 var roundDown = Math.floor(45.9);
 
@@ -43,3 +47,17 @@ var roundedRandomNumber = Math.floor(someNumber);
 
 //Print random number
 console.log(roundedRandomNumber);
+
+//Declaring multiple variable
+var variableA, variableB;
+
+//Declaring multiple variables as well as initializing values.
+var variable1 = "10", variable2 = 100, variable3 = true;
+
+// Calling before defining. 
+console.log(howAreYou);
+var howAreYou = "Hello";
+// You will get undefined
+
+// we reassign the howAreYou value to 100, then we call howAreYou for it's value and assign that to coolVariable.
+var coolVariable = howAreYou = 100;

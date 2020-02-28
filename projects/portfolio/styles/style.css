@@ -1,9 +1,9 @@
 /*BORDER AROUND IMPORTANT ELEMENTS*/
-body, h1, h2, p, footer {
+body, h1, h2, p, ol, footer{
     
     border: solid;
-    border-color: black;
-    background-color: rgba(0, 0, 0, 0.555);
+    border-color: rgba(165, 15, 15, 0.705);
+    background-color: rgba(0, 0, 0, 0.411);
     margin-left: 90px;
     margin-right: 90px;
 }
@@ -39,14 +39,15 @@ nav ul li a:visited {
     color: rgb(0, 0, 0);
 }
 /*MENU NAVIGATION STYLES END*/
+
 body {
     color: rgb(255, 0, 0);
     background-color:gray;
-   /* background-image: url("sfocean.jpg");  /*background image to stand out
+    /*background-image: url("sfbridge.jpg");  /*background image to stand out
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
-    height: 100%; */
+    height:100%; */
     
    
 }
@@ -58,6 +59,7 @@ h1 {
     font-family: Cursive, Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
     text-align: center;
+    color:rgba(255, 0, 0, 0.808)
     
 }
 #tagline {
@@ -76,24 +78,25 @@ h1 {
 /*BODY STYLES START*/
 
 
-p, h2 {
+p, h2, ol {
     margin-left: 90px;
     margin-right: 90px;
 
 }
 h2{
     font-size: 35px;
-    margin-top: 40px;
+    margin-top: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
+    color: black;
 }
-p {
+p, ol{
     font-size: 18px;
     margin-top: 20px;
     padding: 20px 40px 20px 40px;
     
     
-    color:rgb(233, 65, 59);
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
@@ -138,7 +141,7 @@ footer ul li a:active {/*when link is clicked but this is not working yet*/
     color: red;
 }
 footer ul li a:visited {/*visited link*/
-    color: gray;
+    color: rgb(0, 0, 0);
 }
 /*FOOTER STYLES END*/
 
@@ -152,8 +155,8 @@ main span indentation of body paragraphs
 
 
     
-#jvh {
-    padding-top: 30px;
+#jvh, #point {
+    padding-top: 50px;
     display: flex;
     justify-content: center;
 } 
@@ -171,7 +174,16 @@ color:white;
     display: flex;
     align-items: center;
     flex-shrink: 30%;  
+    padding-left: 40px;
+    padding-right: 40px;
     padding-top: 50px;
+    padding-bottom: 50px;
+   
     flex-wrap: wrap;
+    border-style: double;
+    border-color: rgba(255, 0, 0, 0.719);
+    background-color: black;
+    border-width: 20px;
+    margin: 50px 200px 50px 200px;
 }
 /*PROJECT STYLES END*/
