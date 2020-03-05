@@ -1,0 +1,56 @@
+What is an IF statment? 
+If checks for a condition, to see if it is true or not. Logical choices 
+
+What is one limitation of a variable?
+You cannot call it without defining it first
+It can only hold one value 
+
+What are loops?
+
+
+What are functions?
+-A set of instructions that tell JS what to do.
+-Reusable mini programs.
+
+How many data types can a function accept and how many values can it return?
+-Can accept unlimited data types but can only return one value.
+
+How do you write a function?
+-function sentenceBuilder() {}
+-function is a declaration of a keyword
+-sentenceBuilder is the name of the fucntion 
+() is the area for pramanters 
+{} code blocks
+
+What are parameters and what are arguements?
+-parameters are related to variables 
+-arguements are the values for the parameters
+
+What is the syntax for an IF statments?
+-if () {}
+-if is the keyword 
+-() are the place we write the boolean code or statmemnt
+-{} the instructions that follow the boolean statement 
+
+How do you end a JavaScript file?
+- .JS
+
+What is a while statement?
+-While () {}
+-While this statement is true
+-() the condition will run 
+-{} these arguements will pass until the 
+
+Difference between do while and while
+-While loop has to have a true condition in order to run
+-Do while will at least run once 
+
+If an IF is false and I want to ask another question, how?
+- if () {}
+  else if () {}
+  else {}
+
+
+
+
+
