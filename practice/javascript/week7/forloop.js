@@ -1,44 +1,43 @@
-var counter = 0
+var counter = 0;
 
-while (counter < 10) {
-    //code to run per loop.
+while (10 > counter) {
+    // Code to run per loop.
     counter = counter + 1;
     console.log(counter);
 
-    //the ++ will add a one to the existing variable value;
+    // The ++ will add a 1 to the existing variable value;
     //counter++;
 
-    //The -- will substract one to the existing variable value;
+    // The -- will subtract a 1 to the existing variable value;
     //counter--;
 }
 
-// Inside the parentheses we have three parts: counter, conditon, and code that changes the cunter. The third part only runs after the code block.
-for (var counter = 0; 10 > counter; counter = counter + 1) {console.log(counter);
+// Inside the parentheses we have three parts: counter, condition, and code that changes the counter. The third part only runs after the code block.
+for (var counter = 0; 10 > counter; counter = counter + 1) {
+    console.log(counter);
 }
 
-//shorthand loop code
-
 var special = 1;
-//outer loop will run for 10 times, for each time we are excuting another loop that will itself, run 10 times. 
+
+// Outer loop will run for 10 times, for each time we are executing another loop that will itself run 10 times.
 for (var i = 0; i < 10; i++) {
 
+    //The inner loop that will run once (ten times).
     for (var e = 0; e < 10; e++) {
         console.log("running! " + special);
         special++;
-        
     }
+
 }
 
-/*Write a for loop that console.log every even number up to 48. Bonus, start from 12.*/
 
-//my code in class
-var special = 12;
-for (var i = 12; i <= 48; i = i + 2) {
-    console.log("running " + special);
-    special++;
-}
-
-//roberto's code
-for (var counter = 12; 49 > counter; counter = counter + 2) {
-    console.log(counter);
+for (var i = 0; i <= 48; i = i + 1) {
+    console.log("Loop #" + i);
+    
+    if (i % 2 == 0) {
+        console.log(i);
+    } else {
+        continue;
+    }
+    
 }
